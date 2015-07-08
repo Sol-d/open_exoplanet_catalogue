@@ -1,10 +1,14 @@
 <system>
 	<name>HIP 78530</name>
-	<rightascension>16 01 55</rightascension>
-	<declination>-21 58 49</declination>
+	<rightascension>16 01 55.45515</rightascension>
+	<declination>-21 58 49.4025</declination>
 	<distance errorminus="13.0" errorplus="13.0">156.7</distance>
 	<star>
 		<name>HIP 78530</name>
+		<name>BD-21 4255</name>
+		<name>2MASS J16015546-2158496</name>
+		<name>PPM 265017</name>
+		<name>TYC 6212-1713-1</name>
 		<mass>2.5</mass>
 		<magV>7.18</magV>
 		<magB errorminus="0.01" errorplus="0.01">7.27</magB>
@@ -17,6 +21,10 @@
 		<age errorminus="2" errorplus="2">11</age>
 		<planet>
 			<name>HIP 78530 b</name>
+			<name>BD-21 4255 b</name>
+			<name>2MASS J16015546-2158496 b</name>
+			<name>PPM 265017 b</name>
+			<name>TYC 6212-1713-1 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="2" errorplus="2">24</mass>
 			<spectraltype>M7±0.5β</spectraltype>
